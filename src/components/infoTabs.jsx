@@ -6,7 +6,7 @@ import {
   TabPanels,
   Tabs,
 } from "@chakra-ui/react";
-import Chart from "./Chart";
+import Chart from "./chart";
 import ActionComponent from "./actionsComponent";
 
 function InfoTabs() {
