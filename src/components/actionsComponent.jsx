@@ -1,6 +1,6 @@
 import { Box } from "@chakra-ui/react";
 import plusIcon from "../assets/plusIcon.svg";
-import fullscreen from "../assets/fullScreen.svg";
+import fullscreen from "../assets/fullscreen.svg";
 import TimeRange from "./timeRange";
 
 function ActionComponent() {
